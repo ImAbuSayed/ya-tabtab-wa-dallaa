@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-tabtab-wa-dallaa/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Ya Tabtab Wa Dallaa](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
