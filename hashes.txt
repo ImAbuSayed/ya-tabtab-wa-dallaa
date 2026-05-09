@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya Tabtab Wa Dallaa
+
+This log tracks the cryptographic history and versioning for the song **Ya Tabtab Wa Dallaa** (ya-tabtab-wa-dallaa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T15:29:14.146569 | `v1` | `a2e5e3c1f83c013092c813e7b4f11db611a30bc9f813fa5062f9123cff0c8a10` | `6d4d60e372ff48e789b67298e1ba58d8c84a4332a29f630198ced86fac82a137` | `2026-05-09_ya-tabtab-wa-dallaa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
